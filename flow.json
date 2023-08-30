@@ -66,5 +66,20 @@
                 "1a71c4484ea8f773"
             ]
         ]
+    },
+    {
+        "id": "4bf274b651179d1c",
+        "type": "catch",
+        "z": "9e210adbf901907b",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 400,
+        "y": 400,
+        "wires": [
+            [
+                "1a71c4484ea8f773"
+            ]
+        ]
     }
 ]
